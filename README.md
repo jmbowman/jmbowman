@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm Jeremy Bowman, a senior software engineering manager and polyglot software developer with a particular fondness for Python and Rust.
+
+I spent 7+ years actively maintaining and improving the open source [Open edX](https://openedx.org/) system for building and running online courses.  Between that, a few years leading development of [O'Reilly Learning](https://www.oreilly.com/online-learning/) (formerly known as Safari Books Online), and a few years of contract work for assorted clients, I've been building and maintaining Django web applications (and their associated browser and mobile interfaces) for over 14 years.  Along the way I've written assorted Django apps & middleware and contributed to projects including Django, [setuptools](https://pypi.org/project/setuptools/), and [Zulip](https://zulip.com/).
+
+I also wrote a mobile-first database app called [PortaBase](https://github.com/jmbowman/portabase) back in 2002 (originally for Sharp Zaurus Linux PDAs) which now runs on multiple desktop & mobile platforms.  Development is intermittent as I go through long busy stretches when it mostly meets my needs, but I've taught myself many aspects of software development by first needing them for PortaBase improvements.  And I use PortaBase daily for assorted information management tasks, so I always come back to it eventually to keep it running on newer devices and operating system releases.
 
 <!--
 **jmbowman/jmbowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
